@@ -1,0 +1,26 @@
+.heading{
+    font-size:50px;
+    width: 100%;
+    margin:0px ;
+    box-shadow: 5px 5px 5px gainsboro;
+}
+.note{
+    font-size:  15px; 
+    color:rgb(189, 59, 59);
+    font-family:'Times New Roman', Times, serif;
+}
+.copyright_footer{
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+canvas{
+    border: 5px white double;
+    border-radius: 4px ;
+    box-shadow: 5px 5px 5px orangered;
+}
